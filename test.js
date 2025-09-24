@@ -13,3 +13,4 @@ const namees = "awais";
 console.table([typeof age, namees]);
 
 alert (3+3 );
+awais malik
